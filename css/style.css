@@ -1,0 +1,33 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#header-section {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url(/images/app-water-treatment-and-disinfection_Header_1.jpg);
+    background-position: center center, center center;
+    background-size: cover, cover;
+    background-repeat: repeat, repeat;
+}
+
+#second-section{
+    background-color: rgb(217, 235, 229);
+}
+
+.text-in-white{
+    color: white;
+}  
+
+#parallax-section {
+    background-image: url(../images/water-art.jpg);
+    background-position: right bottom;
+    background-size: cover;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+#footer-section {
+    background-image: url(../images/water-art2.jpg);
+    background-position: center center, center center;
+    background-size: cover, cover;
+    background-repeat: repeat, repeat;
+}
